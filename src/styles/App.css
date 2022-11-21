@@ -1,0 +1,51 @@
+.community {
+  background-color: rgb(255, 253, 253);
+  margin: 0;
+  padding: 0;
+  height: 200px;
+  border-radius: 11px 11px 0 0;
+  text-align: center;
+  /* padding: 10px; */
+}
+.community h2 {
+  margin: 0;
+}
+.why-us {
+  background-color: rgba(85, 145, 142, 0.698);
+  width: 50%;
+  height: 250px;
+  border-radius: 0 0 11px 0;
+  text-align: center;
+  color: white;
+}
+.card {
+  background-color: rgb(15, 67, 66);
+  width: 50%;
+  border-radius: 0 0 0 11px;
+  text-align: center;
+  color: white;
+}
+.container {
+  border-radius: 11px;
+  border: 0.5px solid black;
+  height: 450px;
+  width: 800px;
+}
+body {
+  background-color: aquamarine;
+}
+.card-details {
+  display: flex;
+}
+#main {
+  display: flex;
+  justify-content: center;
+}
+.btn {
+  color: white;
+  background-color: rgb(38, 138, 38);
+  width: 100px;
+  border-radius: 6px;
+  height: 30px;
+  border: none;
+}
