@@ -17,7 +17,7 @@ const App = () => {
           <div class="card">
             <p class="card-header">Monthly Subscription</p>
             <p>
-              <span>$29</span>per Month
+              <h1>$29</h1>Per Month
             </p>
             <p>Full access for less than $1 a day.</p>
             <button className="btn">Sign Up</button>
@@ -28,7 +28,7 @@ const App = () => {
               <li>Tutorials by industry experts</li>
               <li>Peer & expert code review</li>
               <li>Coding exercises</li>
-              <li>Access your GitHub repos</li>
+              <li>Access yo our GitHub repos</li>
               <li>Community forum</li>
               <li>Flashcard decks</li>
             </ul>
