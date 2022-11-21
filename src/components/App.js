@@ -24,11 +24,14 @@ const App = () => {
           </div>
           <div class="why-us">
             <h4 class="why-us-header">Why Us</h4>
-            <p>
-              Tutorials by industry experts peer & expert code review coding
-              exercises Access yo our Github repos Community forum Flashcard
-              decks
-            </p>
+            <ul>
+              <li>Tutorials by industry experts</li>
+              <li>Peer & expert code review</li>
+              <li>Coding exercises</li>
+              <li>Access yo our Github repos</li>
+              <li>Community forum</li>
+              <li>Flashcard decks</li>
+            </ul>
           </div>
         </div>
       </div>

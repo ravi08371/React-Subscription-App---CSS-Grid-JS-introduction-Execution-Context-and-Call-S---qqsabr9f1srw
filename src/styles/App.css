@@ -49,3 +49,6 @@ body {
   height: 30px;
   border: none;
 }
+ul {
+  list-style: none;
+}
